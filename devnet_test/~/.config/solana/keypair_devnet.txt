@@ -1,0 +1,8 @@
+pubkey: 5Zd2USMpGDt3146QSbTndTFReTbKZWgsspqK5axfZ9y6
+
+ts-node .\~\metaplex\js\packages\cli\src\candy-machine-v1-cli.ts upload / 
+-e devnet / 
+-k .\devnet_test\~\.config\solana\devnet.json / 
+-cp .\devnet_test\config.json /
+-c  nft_project / 
+.\devnet_test\assets\
