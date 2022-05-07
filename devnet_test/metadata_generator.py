@@ -12,6 +12,7 @@ def create_metadata( edition: int):
         'name': f'PrintCLub #{edition}',
         'description': 'Print Club NFT collection',
         'image': f'ipfs.io/ipfs/QmXcreguUf4mo4YPqiwf1VoQq7mTvEDugyM2qnjLLoBqZJ/{edition}.mp4',
+        'animation_url': f'ipfs.io/ipfs/QmXcreguUf4mo4YPqiwf1VoQq7mTvEDugyM2qnjLLoBqZJ/{edition}.mp4',
         'edition': edition,
         'attributes': [
             {"trait_type": "EcoFriendly", "value": "100"},
