@@ -1,0 +1,13 @@
+{
+  "name": "Number #0001",
+  "symbol": "NB",
+  "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+  "seller_fee_basis_points": 500,
+  "image": "0.gif",
+  "properties": {
+      "creators": [{"address": "6PY9FU2giV7GHvyt6Z2SejZKnSSm5HZZZuWe6frEPx3m", "share": 100}],
+      "files": [{"uri": "0.gif", "type": "image/png"}]
+  },
+  "collection": {"name": "numbers", "family": "numbers"}
+}
+

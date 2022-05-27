@@ -1,0 +1,5 @@
+Wrote keypair to BupFT8b7H8rnXCbDhc1uCLjNLSVmmN1bEKiqevn1cs9K.json --> BUYER
+Wrote keypair to SeHr9EhZRm48Wu6APGnWsxPDha51iYygMPyvXwobHfo.json --> SELLER
+Wrote keypair to ToJyuJUiFremg2SkQbkHXuZ7jDCmQm5xT2YSdNFF3p5.json --> TOKEN
+
+ts-node metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/devnet.json -cp config.json -c nft-project ./assets
